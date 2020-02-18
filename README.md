@@ -1,4 +1,6 @@
 # Edge Message Bus
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjoewxboy%2FEdgeMessageBus.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjoewxboy%2FEdgeMessageBus?ref=badge_shield)
+
 
 ## TL;DR
 
@@ -56,3 +58,7 @@ To install, follow the directions in the [INSTALL.md](INSTALL.md) file.
 Display Dockerfile contents adapted from [Cyntech guide](http://guides.cyntech.co.uk/weatherhat/getting-started/#Connect_everything_up) instructions.
 
 Weather API code adapted from the original work of [krook](https://github.com/krook) in the [`weather-api-python`](https://github.com/Call-for-Code/weather-api-python) repo, as well as substantial refactoring by [vabarbosa](https://github.com/vabarbosa) in his [fork](https://github.com/vabarbosa/weather-api-python).  It would not be possible without their contributions.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjoewxboy%2FEdgeMessageBus.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjoewxboy%2FEdgeMessageBus?ref=badge_large)
